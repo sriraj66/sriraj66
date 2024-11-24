@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Puppeteerr**
 
-- 👨‍💻 All of my projects are available at [sriraj66.github.io](sriraj66.github.io)
+- 👨‍💻 All of my projects are available at [sriraj66.github.io](https://sriraj66.github.io)
 
 - 💬 Ask me about **NodeJS, React, Django, Docker, Scraping, Linux, Servlets, ML & DSA**
 
