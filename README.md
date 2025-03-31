@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sriramrajaclg@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-nextjs-ten-topaz.vercel.app/SRIRAMATS.pdf]Resume)
+- 📄 Know about my experiences [Resume](https://portfolio-nextjs-ten-topaz.vercel.app/SRIRAMATS.pdf)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
