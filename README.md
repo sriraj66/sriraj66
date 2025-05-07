@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sriraj66&label=views&color=0eb410&style=plastic" alt="sriraj66" /> </p>
 
-- 🔭 I’m currently working on **WebScraping**
+- 🔭 I’m currently working on **Web Scraping and Anti Ban**
 
-- 🌱 I’m currently learning **Advance Web Scraping**
+- 🌱 I’m currently learning **Advance Web Scraping and Dynamic Rendering**
 
-- 👯 I’m looking to collaborate on **Puppeteerr**
+- 👯 I’m looking to collaborate on **Puppeteerr and Chromium**
 
 - 👨‍💻 All of my projects are available at [sriraj66.github.io](https://sriraj66.github.io)
 
-- 💬 Ask me about **NodeJS, React, Django, Docker, Scraping, Linux, Servlets, ML & DSA**
+- 💬 Ask me about **NodeJS, React, Django, Docker, Scraping, Linux, Servlets,AI & ML & DSA**
 
 - 📫 How to reach me **sriramrajaclg@gmail.com**
 
@@ -42,5 +42,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sriraj66&show_icons=true&theme=dark&locale=en&layout=compact" alt="sriraj66" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sriraj66&show_icons=true&theme=dark&locale=en" alt="sriraj66" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sriraj66&theme=dark" alt="sriraj66" /></p>
