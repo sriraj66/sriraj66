@@ -17,10 +17,6 @@
 
 - 📄 Know about my experiences [Resume](https://portfolio-nextjs-ten-topaz.vercel.app/SRIRAMATS.pdf)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/sriraj66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sriraj66" height="30" width="40" /></a>
